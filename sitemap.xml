@@ -4,14 +4,75 @@
   
   <url>
     <loc>https://genenomoto.github.io/tags/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/authors/admin/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/authors/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/post/002-firstbiorxiv/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/post/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/tags/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/authors/g.-enomoto/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/publication_types/2/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/publication/enomoto-blue-green-2019/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/authors/m.-ikeuchi/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/publication_types/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/publication/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -26,59 +87,8 @@
   </url>
   
   <url>
-    <loc>https://genenomoto.github.io/tags/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://genenomoto.github.io/authors/admin/</loc>
-    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://genenomoto.github.io/authors/</loc>
-    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://genenomoto.github.io/post/001-helloworld/</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://genenomoto.github.io/post/</loc>
-    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://genenomoto.github.io/authors/g.-enomoto/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://genenomoto.github.io/publication_types/2/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://genenomoto.github.io/authors/m.-ikeuchi/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://genenomoto.github.io/publication_types/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://genenomoto.github.io/publication/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
