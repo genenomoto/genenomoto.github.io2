@@ -1,28 +1,80 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://genenomoto.github.io/tags/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://genenomoto.github.io/authors/g.-enomoto/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://genenomoto.github.io/authors/admin/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+    <loc>https://genenomoto.github.io/publication_types/2/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/publication/enomoto-blue-green-2020/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/authors/m.-ikeuchi/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/publication_types/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/publication/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/tags/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/authors/admin/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/post/003-iscience/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/post/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/publication_types/6/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/authors/a.-wilde/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://genenomoto.github.io/publication/enomoto-light-regulated-2020/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -31,47 +83,12 @@
   </url>
   
   <url>
-    <loc>https://genenomoto.github.io/post/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://genenomoto.github.io/tags/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://genenomoto.github.io/authors/g.-enomoto/</loc>
+    <loc>https://genenomoto.github.io/publication_types/3/</loc>
     <lastmod>2019-11-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://genenomoto.github.io/publication_types/2/</loc>
-    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/publication/enomoto-blue-green-2019/</loc>
-    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://genenomoto.github.io/authors/m.-ikeuchi/</loc>
-    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://genenomoto.github.io/publication_types/</loc>
-    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://genenomoto.github.io/publication/</loc>
     <lastmod>2019-11-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,7 +100,6 @@
   <url>
     <loc>https://genenomoto.github.io/project/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -99,31 +115,26 @@
   <url>
     <loc>https://genenomoto.github.io/authors/y.-okuda/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/k.-fushimi/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/k.-miyake/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/m.-hasegawa/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/m.-sato/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -134,19 +145,16 @@
   <url>
     <loc>https://genenomoto.github.io/authors/r.-narikawa/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/t.-nakajima/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/y.-oikawa/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -162,67 +170,56 @@
   <url>
     <loc>https://genenomoto.github.io/authors/d.-a.-bryant/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/f.-gan/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/j.-c.-lagarias/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/n.-c.-rockwell/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/s.-s.-martin/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/win-ni-ni/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/a.-carbone/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/a.-e.-fortunato/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/a.-falciatore/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/b.-gentili/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/c.-bowler/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -233,61 +230,51 @@
   <url>
     <loc>https://genenomoto.github.io/authors/f.-rappaport/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/j.-p.-bouly/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/j.-s.-bernardes/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/m.-j.-huysman/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/m.-jaubert/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/m.-r.-dalcala/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/m.-thaler/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/r.-raniello/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/s.-malviya/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/ni-ni-win/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -303,13 +290,11 @@
   <url>
     <loc>https://genenomoto.github.io/authors/s.-itoh/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/y.-aono/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -320,13 +305,11 @@
   <url>
     <loc>https://genenomoto.github.io/authors/r.-nomura/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/authors/t.-shimada/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -342,12 +325,10 @@
   <url>
     <loc>https://genenomoto.github.io/authors/y.-hirose/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://genenomoto.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

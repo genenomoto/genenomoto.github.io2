@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Gen Enomoto · Hosted on Github Pages. </copyright>
-    <lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://genenomoto.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My paper is published in iScience! And my first book chapter is also online now!”</title>
+      <link>https://genenomoto.github.io/post/003-iscience/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://genenomoto.github.io/post/003-iscience/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>My first BioRxiv paper is out! Check out “Publications.”</title>

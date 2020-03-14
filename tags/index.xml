@@ -1,115 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gen Enomoto</title>
+    <title>Tags on Gen Enomoto</title>
     <link>https://genenomoto.github.io/tags/</link>
-    <description>Recent content on Gen Enomoto</description>
+    <description>Recent content in Tags on Gen Enomoto</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Gen Enomoto · Hosted on Github Pages. </copyright>
-    <lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://genenomoto.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My first BioRxiv paper is out! Check out “Publications.”</title>
-      <link>https://genenomoto.github.io/post/002-firstbiorxiv/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://genenomoto.github.io/post/002-firstbiorxiv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blue/green light-responsive cyanobacteriochromes are cell shade sensors in red light-replete niches (Preprint)</title>
-      <link>https://genenomoto.github.io/publication/enomoto-blue-green-2019/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://genenomoto.github.io/publication/enomoto-blue-green-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Light signaling in cyanobacteria</title>
-      <link>https://genenomoto.github.io/project/light-signaling/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://genenomoto.github.io/project/light-signaling/</guid>
-      <description>
-
-&lt;h2 id=&#34;molecular-to-physiology-ecology-and-evolution&#34;&gt;Molecular to physiology, ecology, and evolution&lt;/h2&gt;
-
-&lt;p&gt;I&amp;rsquo;m fascinated with how molecules such as DNA, RNA, and proteins underpin the life of organisms. I love microorganisms because they are easy to handle with as a research target and also because these “lower” organism can show us their sophisticated orchestration of molecules than we “higher” organisms expect. My favorite organisms are cyanobacteria. They can grow photoautotrophically with oxygenic photosynthesis, with absorbing CO&lt;sub&gt;2&lt;/sub&gt; and emitting oxygen. They are present in various niches on the earth, such as freshwater lakes, rivers, soils, rocks,  hot springs,  glaciers, and oceans.  For cyanobacteria, light is not only an environmental signal but also an energy source. It is not surprising if we can find cyanobacteria elegantly utilize light information. Light is obviously one of the most fundamental environmental factors to control and affect the behavior of organisms. I am studying what happens in cyanobacterial cells when they sense a light environment.&lt;/p&gt;
-
-&lt;p&gt;Specifically, I have utilized thermophilic cyanobacterium &lt;em&gt;Thermosynechococcus&lt;/em&gt; as a target organism. Many cyanobacteria have cyanobacteria-specific photoreceptors called “cyanobacteriochromes”. I have previously revealed that the three cyanobacteriochromes cooperatively regulate &lt;em&gt;Thermosynechococcus&lt;/em&gt; cell aggregation in a light color-sensitive manner (see e.g.  &lt;a href=&#34;https://genenomoto.github.io/publication/enomoto-three-2015/&#34; target=&#34;_blank&#34;&gt;Enomoto 2015&lt;/a&gt;). This light signaling involves a nucleotide second messenger molecule called “c-di-GMP”. I am now investigating how dynamic behaviors of cyanobacteriochrome proteins and c-di-GMP molecules govern the cellular lifestyle as an EMBO Long-Term fellowship project.&lt;/p&gt;
-
-&lt;p&gt;I am also interested in the molecular studies in an ecology/evolution-relevant context. So far most of these analyses are done under constant cultivation conditions using axenic culture. In nature, however, any organism survives under fluctuating conditions with some “foreign friends”. It would be exciting if we can understand the behaviors and functions of molecules under their native niches.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Launched my personal website.</title>
-      <link>https://genenomoto.github.io/post/001-helloworld/</link>
-      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://genenomoto.github.io/post/001-helloworld/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Molecular characterization of DXCF cyanobacteriochromes from the cyanobacterium Acaryochloris marina identifies a blue-light power sensor</title>
-      <link>https://genenomoto.github.io/publication/hasegawa-molecular-2018/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://genenomoto.github.io/publication/hasegawa-molecular-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diatom phytochromes reveal the existence of far-red-light-based sensing in the ocean</title>
-      <link>https://genenomoto.github.io/publication/fortunato-diatom-2016/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://genenomoto.github.io/publication/fortunato-diatom-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Three cyanobacteriochromes work together to form a light color-sensitive input system for c-di-GMP signaling of cell aggregation</title>
-      <link>https://genenomoto.github.io/publication/enomoto-three-2015/</link>
-      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://genenomoto.github.io/publication/enomoto-three-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cyanobacteriochrome SesA is a diguanylate cyclase that induces cell aggregation in Thermosynechococcus</title>
-      <link>https://genenomoto.github.io/publication/enomoto-cyanobacteriochrome-2014/</link>
-      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://genenomoto.github.io/publication/enomoto-cyanobacteriochrome-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A new type of dual-Cys cyanobacteriochrome GAF domain found in cyanobacterium Acaryochloris marina, which has an unusual red/blue reversible photoconversion cycle</title>
-      <link>https://genenomoto.github.io/publication/narikawa-new-2014/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://genenomoto.github.io/publication/narikawa-new-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thiol-based photocycle of the blue and teal light-sensing cyanobacteriochrome Tlr1999</title>
-      <link>https://genenomoto.github.io/publication/enomoto-thiol-based-2012/</link>
-      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://genenomoto.github.io/publication/enomoto-thiol-based-2012/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
