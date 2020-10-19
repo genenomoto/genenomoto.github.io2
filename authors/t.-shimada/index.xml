@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>T. Shimada on Gen Enomoto</title>
+    <title>T. Shimada | Gen Enomoto</title>
     <link>https://genenomoto.github.io/authors/t.-shimada/</link>
-    <description>Recent content in T. Shimada on Gen Enomoto</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Gen Enomoto · Hosted on Github Pages. </copyright>
-    <lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://genenomoto.github.io/authors/t.-shimada/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://genenomoto.github.io/authors/t.-shimada/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Shimada</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Gen Enomoto · Hosted on Github Pages. </copyright><lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://genenomoto.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>T. Shimada</title>
+      <link>https://genenomoto.github.io/authors/t.-shimada/</link>
+    </image>
     
     <item>
       <title>Cyanobacteriochrome SesA is a diguanylate cyclase that induces cell aggregation in Thermosynechococcus</title>
       <link>https://genenomoto.github.io/publication/enomoto-cyanobacteriochrome-2014/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://genenomoto.github.io/publication/enomoto-cyanobacteriochrome-2014/</guid>
       <description></description>
     </item>

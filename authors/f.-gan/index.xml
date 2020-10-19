@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>F. Gan on Gen Enomoto</title>
+    <title>F. Gan | Gen Enomoto</title>
     <link>https://genenomoto.github.io/authors/f.-gan/</link>
-    <description>Recent content in F. Gan on Gen Enomoto</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Gen Enomoto · Hosted on Github Pages. </copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://genenomoto.github.io/authors/f.-gan/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://genenomoto.github.io/authors/f.-gan/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Gan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Gen Enomoto · Hosted on Github Pages. </copyright><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://genenomoto.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>F. Gan</title>
+      <link>https://genenomoto.github.io/authors/f.-gan/</link>
+    </image>
     
     <item>
       <title>Cyanobacteriochrome photoreceptors lacking the canonical Cys residue</title>
       <link>https://genenomoto.github.io/publication/fushimi-cyanobacteriochrome-2016/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://genenomoto.github.io/publication/fushimi-cyanobacteriochrome-2016/</guid>
       <description></description>
     </item>

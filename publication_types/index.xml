@@ -1,43 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Gen Enomoto</title>
+    <title>Publication_types | Gen Enomoto</title>
     <link>https://genenomoto.github.io/publication_types/</link>
-    <description>Recent content in Publication_types on Gen Enomoto</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Gen Enomoto · Hosted on Github Pages. </copyright>
-    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://genenomoto.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>2</title>
-      <link>https://genenomoto.github.io/publication_types/2/</link>
-      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://genenomoto.github.io/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>6</title>
-      <link>https://genenomoto.github.io/publication_types/6/</link>
-      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://genenomoto.github.io/publication_types/6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3</title>
-      <link>https://genenomoto.github.io/publication_types/3/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://genenomoto.github.io/publication_types/3/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://genenomoto.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Gen Enomoto · Hosted on Github Pages. </copyright><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://genenomoto.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication_types</title>
+      <link>https://genenomoto.github.io/publication_types/</link>
+    </image>
     
   </channel>
 </rss>
