@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Nishizaka | Gen Enomoto</title>
+    <link>https://genenomoto.github.io/authors/t.-nishizaka/</link>
+      <atom:link href="https://genenomoto.github.io/authors/t.-nishizaka/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Nishizaka</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Gen Enomoto · Hosted on Github Pages. </copyright><lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://genenomoto.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>T. Nishizaka</title>
+      <link>https://genenomoto.github.io/authors/t.-nishizaka/</link>
+    </image>
+    
+    <item>
+      <title>Thermosynechococcus switches the direction of phototaxis by a c-di-GMP dependent process with high spatial resolution (Preprint)</title>
+      <link>https://genenomoto.github.io/publication/nakane-thermosynechococcus-2021/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://genenomoto.github.io/publication/nakane-thermosynechococcus-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
