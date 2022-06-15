@@ -5,12 +5,23 @@
     <link>https://genenomoto.github.io/post/</link>
       <atom:link href="https://genenomoto.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Gen Enomoto · Hosted on Github Pages. </copyright><lastBuildDate>Sat, 04 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Gen Enomoto · Hosted on Github Pages. </copyright><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://genenomoto.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://genenomoto.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Added one co-first author paper and one co-last author preprint!”</title>
+      <link>https://genenomoto.github.io/post/006-nakaneelife/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://genenomoto.github.io/post/006-nakaneelife/</guid>
+      <description>&lt;p&gt;Finally our paper on the phototactic motility of the rod-shaped cyanobacterial cells was out in &lt;a href=&#34;https://genenomoto.github.io/publication/nakane-thermosynechococcus-2022/&#34;&gt;eLife&lt;/a&gt;!
+This exciting achievement would be impossible without the excellent collaborators, especially the superb microscopist Dr. Daisuke Nakane.&lt;/p&gt;
+&lt;p&gt;Briefly, we could dissect the contribution of each light color controlling the light-oriented cellular movement of &lt;em&gt;Thermosynechococcus&lt;/em&gt; cyanobacterium. We found that light color information is transduced to the second messenger molecule c-di-GMP to govern the direction of the phototactic movement. Furthermore, we had a detailed look at the cell biological mechanisms of the phototaxis. We found that &lt;em&gt;Thermosynechococcus&lt;/em&gt; elicits the &amp;ldquo;within-a-pole&amp;rdquo; polarity regulation, which is quite distinct compared to other bacterial cells with the &amp;ldquo;pole-to-pole&amp;rdquo; polarity control. I&amp;rsquo;m really looking forward to tackling several interesting open questions, including how c-di-GMP affects a cell, how a cell interprets the light direction, and how a cell community is coordinated with individual motility.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Added one co-author paper and one preprint!”</title>

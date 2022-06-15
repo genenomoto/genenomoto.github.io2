@@ -5,12 +5,28 @@
     <link>https://genenomoto.github.io/publication/</link>
       <atom:link href="https://genenomoto.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Gen Enomoto · Hosted on Github Pages. </copyright><lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Gen Enomoto · Hosted on Github Pages. </copyright><lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://genenomoto.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://genenomoto.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Thermosynechococcus switches the direction of phototaxis by a c-di-GMP-dependent process with high spatial resolution</title>
+      <link>https://genenomoto.github.io/publication/nakane-thermosynechococcus-2022/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://genenomoto.github.io/publication/nakane-thermosynechococcus-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green light perception paved the way for the diversification of GAF domain photoreceptors (Preprint)</title>
+      <link>https://genenomoto.github.io/publication/priyadarshini-green-2021/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://genenomoto.github.io/publication/priyadarshini-green-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Thermosynechococcus switches the direction of phototaxis by a c-di-GMP dependent process with high spatial resolution (Preprint)</title>
