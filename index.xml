@@ -5,12 +5,43 @@
     <link>https://genenomoto.github.io/</link>
       <atom:link href="https://genenomoto.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Gen Enomoto</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Gen Enomoto · Hosted on Github Pages. </copyright><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Gen Enomoto · Hosted on Github Pages. </copyright><lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://genenomoto.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Gen Enomoto</title>
       <link>https://genenomoto.github.io/</link>
     </image>
+    
+    <item>
+      <title>Added the first last-author paper and one review paper!”</title>
+      <link>https://genenomoto.github.io/post/007-1stlastauthorpaper/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://genenomoto.github.io/post/007-1stlastauthorpaper/</guid>
+      <description>&lt;p&gt;After a long struggle, finally my first last-author paper was published in &lt;a href=&#34;https://genenomoto.github.io/publication/priyadarshini-evidence-2023/&#34;&gt;Photochemical &amp;amp; Photobiological Sciences&lt;/a&gt;!
+It was an exciting achievement in a great collaboration with the group of Dr. Georg Hochberg at MPI Marburg!
+Combining biochemistry and bioinformatics, we acquired exciting results about the possible history of the diversification of the colorful photoreceptor cyanobacteriochromes.&lt;/p&gt;
+&lt;p&gt;One more paper, the review of c-di-GMP second messenger in cyanobacteria is also out in &lt;a href=&#34;https://genenomoto.github.io/publication/enomoto-control-2023/&#34;&gt;microLife&lt;/a&gt;!
+This review is kind of the summary paper of the collaboration within the framework of &lt;a href=&#34;https://www.spp1879.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPP1879&lt;/a&gt;, to which I belonged as an associate PI.
+About this review, I also contributed to a blog post at &lt;a href=&#34;https://fems-microbiology.org/femsmicroblog-cyclic-di-gmp-controls-how-cyanobacteria-adapt-to-light/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#FEMSmicroBlog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So please check them!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Control of light-dependent behaviour in cyanobacteria by the second messenger cyclic di-GMP</title>
+      <link>https://genenomoto.github.io/publication/enomoto-control-2023/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://genenomoto.github.io/publication/enomoto-control-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for an early green/red photocycle that precedes the diversification of GAF domain photoreceptor cyanobacteriochromes</title>
+      <link>https://genenomoto.github.io/publication/priyadarshini-evidence-2023/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://genenomoto.github.io/publication/priyadarshini-evidence-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Added one co-first author paper and one co-last author preprint!”</title>
